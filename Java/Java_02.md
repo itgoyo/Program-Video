@@ -129,5 +129,5 @@ Spring Cloud Sleuth的使用, Sleuth搭配Zipkin, 直观获取跟踪信息和分
 12-7 构建api-gateway
 ```
 下载地址：
-本帖隐藏的内容
+
 链接: https://pan.baidu.com/s/12LuVnQRkc5-_aEW5GUHJiA 密码: fbhf
