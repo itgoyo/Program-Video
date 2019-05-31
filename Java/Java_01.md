@@ -8,6 +8,7 @@ SpringBoot是企业级开发的整体整合解决方案，特别用于快速构�
 本视频着重介绍SpringBoot的使用和内部原理；内容包含微服务概念、配置文件、日志框架的使用、web开发、Thymeleaf模板引擎、Docker容器技术、MyBatis、Spring Data JPA、自定义starter等；
 学习本套视频最基本需要掌握Spring、SpringMVC、Maven；最好配合《Spring注解版》一起学习效果更好
 
+```
 ----------------------课程目录------------------------------
 
 00、尚硅谷_SpringBoot_源码、课件
@@ -83,7 +84,7 @@ SpringBoot是企业级开发的整体整合解决方案，特别用于快速构�
 70、尚硅谷_SpringBoot_原理-事件监听机制相关测试
 71、尚硅谷_SpringBoot_原理-自定义starter
 72、尚硅谷_SpringBoot_结束语
-
+```
 
 下载地址：
 本帖隐藏的内容
